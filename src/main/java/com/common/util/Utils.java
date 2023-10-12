@@ -391,9 +391,7 @@ public class Utils {
 
 						list.add(nt);
 					}
-
 				}
-
 			}
 
 			System.out.println("41:" + counter);
